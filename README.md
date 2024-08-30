@@ -1,2 +1,2 @@
 # R-and-F-Web-Application
-R-and-F-Web-Application is a showcase management system developed to display all the products of a garment factory.
+R-and-F-Web-Application is a showcase management system developed to display all the products of a garment factory. This client project provides an intuitive and user-friendly interface for potential customers to explore the full range of garments offered by the factory. The project can be viewed at the following link: [`R-and-F Web Application`](https://randfbrand.com/).
